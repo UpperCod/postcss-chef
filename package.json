@@ -1,6 +1,6 @@
 {
   "name": "postcss-chef",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "It is a small postcss library capable of simplifying the creation of flexbox-based layout.",
   "main": "build/cjs.js",
   "module": "build/cjs.js",
